@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="col-12 col-md-4 mb-3 mt-3">
             <h5 className='fs-3'>Quick Links</h5>
             <ul className="list-unstyled d-flex flex-column" style={{ gap: "10px" }}>
-              <li><a href="/" className="text-white text-decoration-none fs-5">Home</a></li>
+              <li><a href="Home" className="text-white text-decoration-none fs-5">Home</a></li>
               <li><a href="/products" className="text-white text-decoration-none fs-5">Products</a></li>
               <li><a href="/carts" className="text-white text-decoration-none fs-5">Cart</a></li>
             </ul>
@@ -20,7 +20,7 @@ const Footer = () => {
           <div className="col-12 col-md-4 mb-3 mt-3">
             <h5 className='fs-3'>Contact</h5>
             <p className='fs-5'>Email: support@reactshop.com</p>
-            <p className='fs-5'>Phone: +91 98765 43210</p>
+            <p className='fs-5'>Phone: 8602014375</p>
           </div>
         </div>
       </div>
