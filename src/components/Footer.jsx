@@ -20,7 +20,7 @@ const Footer = () => {
           <div className="col-12 col-md-4 mb-3 mt-3">
             <h5 className='fs-3'>Contact</h5>
             <p className='fs-5'>Email: support@reactshop.com</p>
-            <p className='fs-5'>Phone: 8602014375</p>
+            <p className='fs-5'>Phone: 86020143751</p>
           </div>
         </div>
       </div>
